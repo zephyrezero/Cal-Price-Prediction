@@ -1,4 +1,4 @@
-# House-Price-Pred--sklearn
+# House-Price-Prediction
 
 # Requiremnets
 * Python 3.xx (interactive mode)
